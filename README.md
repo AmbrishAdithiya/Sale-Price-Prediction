@@ -1,0 +1,2 @@
+# Sale-Price-Prediction
+Getting a good estimate of a property is hard even for the most seasoned real estate agents. With the advent of data , it is now possible to get a much more sophisticated data driven valuation of the property. The objective of this project is to predict whether a loan will be a default or not based on historical data of loans disbursed and whether banks should continue to lend to customers with a similar profile.
